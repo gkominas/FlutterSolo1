@@ -16,7 +16,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: .
+        working-directory: ./flutter_application_1
 
     steps:
       - name: Checkout repository
